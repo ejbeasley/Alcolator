@@ -48,15 +48,15 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <gestureRecognizers/>
                         <constraints>
-                            <constraint firstAttribute="trailingMargin" secondItem="ZoM-Nf-1do" secondAttribute="trailing" constant="15" id="2SB-o9-BMo"/>
                             <constraint firstItem="X2x-iF-PYm" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="8" id="4q3-WO-hAF"/>
                             <constraint firstAttribute="trailingMargin" secondItem="X2x-iF-PYm" secondAttribute="trailing" id="F53-bC-vI0"/>
                             <constraint firstItem="gR1-IB-UiO" firstAttribute="top" secondItem="PNo-jl-dom" secondAttribute="bottom" constant="41" id="F5U-XT-LkZ"/>
                             <constraint firstAttribute="leadingMargin" secondItem="X2x-iF-PYm" secondAttribute="leading" id="OQL-Fq-rky"/>
+                            <constraint firstItem="ZoM-Nf-1do" firstAttribute="centerX" secondItem="gR1-IB-UiO" secondAttribute="centerX" id="RAi-Eq-Jba"/>
                             <constraint firstItem="PNo-jl-dom" firstAttribute="width" secondItem="X2x-iF-PYm" secondAttribute="width" id="ZJy-ki-180"/>
                             <constraint firstItem="gR1-IB-UiO" firstAttribute="centerX" secondItem="PNo-jl-dom" secondAttribute="centerX" id="cNR-Lc-mfc"/>
+                            <constraint firstItem="ZoM-Nf-1do" firstAttribute="width" secondItem="gR1-IB-UiO" secondAttribute="width" id="hpu-tw-0Nb"/>
                             <constraint firstItem="ZoM-Nf-1do" firstAttribute="top" secondItem="gR1-IB-UiO" secondAttribute="bottom" constant="30" id="i5v-CG-Tvq"/>
-                            <constraint firstItem="ZoM-Nf-1do" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" constant="15" id="oD6-GX-5Vj"/>
                             <constraint firstItem="PNo-jl-dom" firstAttribute="centerX" secondItem="X2x-iF-PYm" secondAttribute="centerX" id="rRW-0f-kEt"/>
                             <constraint firstItem="PNo-jl-dom" firstAttribute="top" secondItem="X2x-iF-PYm" secondAttribute="bottom" constant="36" id="zdA-Dg-Fov"/>
                         </constraints>
